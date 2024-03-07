@@ -5,7 +5,9 @@
 - Got Grand Prize in  2023 Korea association of Information Systems Fall Conference College Student Idea Contest(1ST)
 
 ## About Project
-<img width="1316" alt="image" src="https://github.com/hyeyeonIm/GoTogether/assets/68217111/6d253db2-012a-47fa-b19e-68cebfacf205">
+<img width="1266" alt="image" src="https://github.com/haminse/AI-route-guidance-callcenter-4-elderly/assets/68217111/879a7154-5133-46c8-9775-b50729b9489c">
+
+
 
 - AI-based public transportation guidance call center service for the elderly Service
 
